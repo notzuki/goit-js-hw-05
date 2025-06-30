@@ -3,7 +3,7 @@ const sortByDescendingFriendCount = (users) => {
 }
 
 
-consol.log(
+console.log(
     sortByDescendingFriendCount([
       {
         name: "Moore Hensley",
